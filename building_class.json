@@ -1,0 +1,23 @@
+{
+    "": 0,
+    "IECC": 1,
+    "PrimarySchool": 2,
+    "MidriseApartment": 3,
+    "RetailStandalone": 4,
+    "FullServiceRestaurant": 5,
+    "QuickServiceRestaurant": 6,
+    "RetailStripmall": 7,
+    "SmallOffice": 8,
+    "Hospital": 9,
+    "MediumOffice": 10,
+    "Warehouse": 11,
+    "SmallHotel": 12,
+    "LargeOffice": 13,
+    "SecondarySchool": 14,
+    "Outpatient": 15,
+    "HighriseApartment": 16,
+    "LargeHotel": 17,
+    "SuperMarket": 18,
+    "Laboratory": 19,
+    "College": 20
+}
