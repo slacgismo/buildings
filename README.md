@@ -28,7 +28,7 @@ id
 
 Notes
 
-1. Prior to August 7, 2023 access is retricted to users with permissiong to read the AWS repository using an AWS profile for the HiPAS GridLAB-D project.
+1. Prior to August 7, 2023 access is retricted to users with permission to read the AWS repository using an AWS profile for the HiPAS GridLAB-D project.
 
 ## Data Fields
 
@@ -90,5 +90,5 @@ Get the building type. See `building_type.json` for a list of known building typ
 
 ## Reference
 
-* New, Joshua et al, "AutoBEM-4", Oak Ridge National Laboratory, May 2023.
+* New, Joshua et al, "Model America - data and models of every U.S. building", Oak Ridge National Laboratory, 4/13/2021. URL: https://doi.ccs.ornl.gov/ui/doi/339
 
