@@ -74,7 +74,7 @@ Get the building centroid. Centroid are recorded with an accuracy of 2.4 cos(lat
 
 ### `get_footprint(index)`
 
-Get the building footprint. Footprint vertices are recorded with an accurage of 7.4 cos(latitude) meter.
+Get the building footprint. Footprint vertices are recorded with an accuracy of 7.4 cos(latitude) meter.
 
 ### `get_class(index)`
 
